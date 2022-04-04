@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ShazaibSarwar
+- 👋 Hi, I’m SHAZAIB SARWAR
 - 👀 I’m interested in Data Science Feild | Web Development | Ai | Machine Learning | Deep Learning
 - 🌱 I’m currently learning Artificial Inteligence
 - 📫 How to reach me --> shazaibs355@gmail.com
