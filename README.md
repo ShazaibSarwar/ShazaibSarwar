@@ -1,6 +1,5 @@
-            
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=000000&center=true&multiline=true&width=1000&lines=Welcome+to+my+GitHub+profile!)](https://git.io/typing-svg)           
 # Hi there, I'm a full-stack (beck-end heavy) web developer 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&center=true&multiline=true&width=1000&lines=Hi%2C+I+am+a+full-stack+web+developer)](https://git.io/typing-svg)
 
 Welcome to my GitHub profile! I am a professional web developer with expertise in a wide range of technologies and tools.
 ## My GitHub Stats
