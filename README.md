@@ -1,87 +1,13 @@
             
-# Hi there, I'm a backend and full-stack web developer 👋
+# Hi there, I'm a full-stack (beck-end heavy) web developer 👋
 
-Welcome to my GitHub profile! I am a professional web developer with expertise in a wide range of technologies and tools. I specialize in backend development using Node.js, Express.js, NestJS, PHP, Laravel, CodeIgniter, and .NET Core, as well as frontend development using HTML5, CSS3, Bootstrap, JavaScript, jQuery, Angular, React.js, and Next.js. I am also experienced in database development using MySQL, MySQLi, MongoDB, and Postgre.
-
-I have extensive experience in integrating various APIs, including REST and SOAP APIs, social media APIs, and payment gateway APIs such as PayPal, Stripe, 2Checkout, Skrill, and Braintree. I am also skilled in web scraping and XERO integration.
-
-I have a good understanding of web hosting and deployment on servers such as Heroku, Linux, and cPanel. Additionally, I am familiar with various development tools, including Postman, VScode, Git, MS Office, and JIRA.
-
+Welcome to my GitHub profile! I am a professional web developer with expertise in a wide range of technologies and tools.
 ## My GitHub Stats
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShazaibSarwar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## Connect with me
-
-If you have any questions or would like to discuss a project, please feel free to contact me. You can find me on LinkedIn or send me an email.
-
-- LinkedIn: [ShazaibSarwar](https://www.linkedin.com/in/Shazaib-Sarwar/)
-- Email: [shazaibs355@gmail.com.com](mailto:shazaibs3552gmail.com)
-
-Thank you for visiting my GitHub profile!
-
-
 # Skills
-This repository contains code samples of my work in various programming languages, frameworks, databases, integrations, servers and tools. Below is a list of the technologies and tools that I am proficient in:
+My repositories contains code samples of my work in various programming languages, frameworks, databases, integrations, servers and tools. Below is a list of the technologies and tools that I am proficient in:
 
-## Backend
-- Node.js
-- Express.js
-- NestJS
-- PHP
-- Laravel
-- CodeIgniter
-- .NET Core
-
-## Frontend
-- HTML / HTML5
-- CSS / CSS3
-- ASP.NET Razor Pages
-- Bootstrap
-- JavaScript
-- jQuery
-- Angular
-- React.js
-- Next.js
-- Vue.js
-- Quasar (Vue.js Framework)
-
-## Database
-- MySQL
-- MySQLi
-- SQLite
-- MongoDB
-- Postgre
-- Firebase
-
-## Integrations
-- API (REST, SOAP)
-- Social Media APIs
-- Paypal
-- Stripe
-- 2Checkout
-- Skrill
-- Braintree
-- Web Scrapping
-- XERO
-
-## Servers
-- Heroku
-- Linux
-- cPanel
-- phpMyAdmin
-
-## Tools
-- Postman
-- VScode
-- Git
-- MS office
-- JIRA
-- Trello
-- Clokify
-- Swagger
-
-## Shields
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)](https://expressjs.com/)
 [![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)](https://nestjs.com/)
@@ -182,3 +108,12 @@ This repository contains code samples of my work in various programming language
 
 
 This is my skillset as a developer. Please feel free to reach out to me if you have any questions or would like to discuss a potential project.
+
+## Connect with me
+
+If you have any questions or would like to discuss a project, please feel free to contact me. You can find me on LinkedIn or send me an email.
+
+- LinkedIn: [ShazaibSarwar](https://www.linkedin.com/in/Shazaib-Sarwar/)
+- Email: [shazaibs355@gmail.com.com](mailto:shazaibs3552gmail.com)
+
+Thank you for visiting my GitHub profile!
