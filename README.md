@@ -89,7 +89,6 @@ This repository contains code samples of my work in various programming language
 [![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)](https://laravel.com/)
 [![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EE4323?style=flat&logo=codeigniter&logoColor=white)](https://codeigniter.com/)
 [![.NET Core](https://img.shields.io/badge/-.NET%20Core-512BD4?style=flat&logo=.net&logoColor=white)](https://dotnet.microsoft.com/)
-
 [![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=.net&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet)
@@ -101,13 +100,11 @@ This repository contains code samples of my work in various programming language
 [![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
 [![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)](https://vuejs.org/)
 [![Quasar](https://img.shields.io/badge/-Quasar-1976D2?style=flat&logo=quasar&logoColor=white)](https://quasar.dev/)
-
 [![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://www.mysql.com/)
 [![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](https://www.sqlite.org/index.html)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
 [![Postgre](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)](https://firebase.google.com/)
-
 [![REST API](https://img.shields.io/badge/-REST%20API-FF5733?style=flat)](https://restfulapi.net/)
 [![Social Media APIs](https://img.shields.io/badge/-Social%20Media%20APIs-3B5998?style=flat)](https://developers.facebook.com/)
 [![PayPal](https://img.shields.io/badge/-PayPal-00457C?style=flat&logo=paypal&logoColor=white)](https://www.paypal.com/)
@@ -117,12 +114,10 @@ This repository contains code samples of my work in various programming language
 [![Braintree](https://img.shields.io/badge/-Braintree-0079C1?style=flat&logo=braintree&logoColor=white)](https://www.braintreepayments.com/)
 [![Web Scraping](https://img.shields.io/badge/-Web%20Scraping-339933?style=flat)](https://en.wikipedia.org/wiki/Web_scraping)
 [![XERO](https://img.shields.io/badge/-XERO-2BAF2B?style=flat&logo=xero&logoColor=white)](https://www.xero.com/)
-  
 [![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white)](https://www.heroku.com/)
 [![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)](https://www.linux.org/)
 [![cPanel](https://img.shields.io/badge/-cPanel-FF6C2C?style=flat&logo=cpanel&logoColor=white)](https://cpanel.net/)
 [![phpMyAdmin](https://img.shields.io/badge/-phpMyAdmin-4479A1?style=flat&logo=phpmyadmin&logoColor=white)](https://www.phpmyadmin.net/)
-
 [![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)](https://www.postman.com/)
 [![VScode](https://img.shields.io/badge/-VScode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
@@ -131,7 +126,6 @@ This repository contains code samples of my work in various programming language
 [![Trello](https://img.shields.io/badge/-Trello-0079BF?style=flat&logo=trello&logoColor=white)](https://trello.com/)
 [![Clockify](https://img.shields.io/badge/-Clockify-05B2DC?style=flat&logo=clockify&logoColor=white)](https://clockify.me/)
 [![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat&logo=swagger&logoColor=black)](https://swagger.io/)
-
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)](https://graphql.org/)
 [![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat&logo=apollo-graphql&logoColor=white)](https://www.apollographql.com/)
 [![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com/)
