@@ -2,9 +2,6 @@
 # Hi there, I'm a full-stack web developer 👋
 
 Welcome to my GitHub profile! I am a professional web developer with expertise in a wide range of technologies and tools.
-## My GitHub Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShazaibSarwar&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 # Skills
 My repositories contains code samples of my work in various programming languages, frameworks, databases, integrations, servers and tools. Below is a list of the technologies and tools that I am proficient in:
 
